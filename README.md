@@ -6,5 +6,8 @@ HelloWhitespace is simple helloworld example.
 2. hello {NAME}
 
 ## Demo
-Please enter your name : bbvch13531
+```
+Please enter your name : bbvch13531  
+
 hello bbvch13531
+```
